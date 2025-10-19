@@ -76,7 +76,7 @@
 </div>
 
 <div align="center">
-  <img src="blackhole_animation.svg" alt="Animated Black Hole" width="400"/>
+  <img src="https://raw.githubusercontent.com/smulkkkkk/smulkkkkk/main/blackhole_animation.svg" alt="Black Hole Animated by Code" width="400"/>
 </div>
 
 ---
