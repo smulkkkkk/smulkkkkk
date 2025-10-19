@@ -75,4 +75,8 @@
   </picture>
 </div>
 
+<div align="center">
+  <img src="blackhole_animation.svg" alt="Animated Black Hole" width="400"/>
+</div>
+
 ---
