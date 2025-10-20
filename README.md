@@ -73,46 +73,4 @@
 
 <p align="center">🌑 <i>“A mente é um universo”</i> 🌑</p>
 
-<div align="center">
-  <svg viewBox="0 0 400 400" width="300" height="300">
-    <defs>
-      <radialGradient id="blackhole" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#0a0010"/>
-        <stop offset="60%" stop-color="#1a0028"/>
-        <stop offset="100%" stop-color="#000"/>
-      </radialGradient>
-
-  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="rgba(140,0,255,0.8)"/>
-        <stop offset="100%" stop-color="rgba(0,0,0,0)"/>
-      </radialGradient>
-    </defs>
-
-  <circle cx="200" cy="200" r="120" fill="url(#blackhole)">
-      <animateTransform 
-        attributeName="transform"
-        type="rotate"
-        from="0 200 200"
-        to="360 200 200"
-        dur="8s"
-        repeatCount="indefinite"/>
-    </circle>
-
-  <circle cx="200" cy="200" r="180" fill="url(#glow)">
-      <animateTransform 
-        attributeName="transform"
-        type="rotate"
-        from="360 200 200"
-        to="0 200 200"
-        dur="10s"
-        repeatCount="indefinite"/>
-    </circle>
-
-  <text x="50%" y="50%" fill="#8f00ff" font-size="16" text-anchor="middle" dominant-baseline="middle" font-family="Orbitron">
-      Samuel Alves Ribeiro
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
 
