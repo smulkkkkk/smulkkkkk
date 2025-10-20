@@ -3,11 +3,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
 
 
-<h1 align="center">
-    <img 
-        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=What's+up!+I'm+Samuel+Alves!+👋;+🧩+Building+dope+solutions&color=324a77" 
-        alt="Typing SVG" 
-    />
+<h1 style="text-align: center;">
+    <img 
+        src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=What's+up!+I'm+Samuel+Alves!+👋;+🧩+Building+dope+solutions&color=324a77" 
+        alt="Typing SVG" 
+    />
 </h1>
 
 💡 **Yo! I'm a creative developer**, driven by killer ideas and always on the hunt to level up my skills.
@@ -25,6 +25,12 @@
 
 <p align="center"> Always stacking up new knowledge, fam! (Constantemente expandindo meu conhecimento)</p>
 
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/dc/e0/39/dce03946deb067b6c711defdc082ec6c.gif"  />
+
+###
 ---
 
 ### 🧠 The Full Stack Lowdown
