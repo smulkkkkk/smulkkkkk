@@ -1,15 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=6A00FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Universe...;I'm+Samuel+Alves+Ribeiro+💻;Dev+%26+Dreamer+✨;Exploring+the+Black+Hole+of+Code+⚫" alt="Typing SVG" />
-</h1>
-
----
-
-<div align="center">
-  <img src="https://github.com/smulkkkkk/smulkkkkk/blob/main/assets/blackhole.gif" width="220" alt="blackhole animation" />
-</div>
-
----
-
 ### 🌌 Sobre mim
 
 > 💡 Um desenvolvedor curioso, criativo e movido por ideias.  
