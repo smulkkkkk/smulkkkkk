@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake graph" />
 </p>
----
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/smulkkkkk/smulkkkkk/refs/heads/main/blackhole.svg"  width="25" alt="Animated Black Hole SVG"/>
