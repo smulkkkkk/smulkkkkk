@@ -53,12 +53,12 @@
 
 ---
 
-<p align="center">*/
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake graph" />
 </p>
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/smulkkkkk/smulkkkkk/refs/heads/main/.github/blackhole.svg" alt="Animated Black Hole SVG" width="25" />
-    <i>“The mind is a whole universe”</i> 
+    <img src="https://raw.githubusercontent.com/smulkkkkk/smulkkkkk/refs/heads/main/.github/blackhole.svg" alt="Animated Black Hole SVG" width="25" />
+    <i>“The mind is a whole universe”</i> 
 </p>
