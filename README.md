@@ -59,6 +59,6 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/smulkkkkk/smulkkkkk/refs/heads/main/.github/blackhole.svg" alt="Animated Black Hole SVG" width="25" />
+    <img src="https://raw.githubusercontent.com/smulkkkkk/smulkkkkk/refs/heads/main/.github/blackhole.svg"  width="25" alt="Animated Black Hole SVG"/>
     <i>“The mind is a whole universe”</i> 
 </p>
