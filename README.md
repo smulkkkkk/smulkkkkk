@@ -68,7 +68,7 @@
 
 ### 🧬 Link Up!
 
-<div align="center">   <a href="www.linkedin.com/in/smullk-undefined-5a1a843a1" target="_blank">     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=6A00FF&style=for-the-badge" height="30" />   </a>   <a href="https://discord.com/users/laflame_72" target="_blank">     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=2D2D2D&style=for-the-badge" height="30" />   </a>   <a href="https://www.instagram.com/therealsmulll?igsh=cmNhMmp4eXV2NXZr " target="_blank">     <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=9146FF&style=for-the-badge" height="30" />   </a> </div>
+<div align="center">   <a href="[www.linkedin.com/in/smullk-undefined-5a1a843a1](https://www.linkedin.com/in/samuel-alves-ribeiro-5a1a843a1/?trk=opento_sprofile_goalscard)" target="_blank">     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=6A00FF&style=for-the-badge" height="30" />   </a>   <a href="https://discord.com/users/laflame_72" target="_blank">     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=2D2D2D&style=for-the-badge" height="30" />   </a>   <a href="https://www.instagram.com/therealsmulll?igsh=cmNhMmp4eXV2NXZr " target="_blank">     <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=9146FF&style=for-the-badge" height="30" />   </a> </div>
 
 ---
 ###
