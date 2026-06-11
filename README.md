@@ -43,7 +43,7 @@
 </div>
 
 <p align="center">
-  Always stacking up new knowledge, fam! (Constantemente expandindo meu conhecimento)
+  Always stacking up new knowledge, fam!
 </p>
 
 
